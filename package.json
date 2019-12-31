@@ -1,6 +1,6 @@
 {
   "name": "@idea/i-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sample project for packages built with rollup.",
   "main": "dist/i-storage.js",
   "module": "dist/i-storage.mjs",
