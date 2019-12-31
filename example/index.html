@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>i-storage</title>
+</head>
+<body>
+<script src="../dist/i-storage.js"></script>
+<script>
+ var storage = new iStorage();
+ storage.setValue('key-1', 'hello key-1');
+ storage.getValue('key-1');
+ storage.setValue('key-2', 'hello key-2');
+ storage.setValue('key-3', 'hello key-2', Date.now());
+ storage.setValue('key-4', 'hello key-2', Date.now() + 5000000);
+</script>
+</body>
+</html>
