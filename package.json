@@ -1,5 +1,5 @@
 {
-  "name": "rollup-starter-project",
+  "name": "@idea/i-storage",
   "version": "1.0.0",
   "description": "Sample project for packages built with rollup.",
   "main": "dist/i-storage.js",
@@ -19,16 +19,12 @@
     "bundle",
     "browser"
   ],
-  "author": "Brian Donovan",
+  "author": "leo",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rollup/rollup-starter-project/issues"
-  },
   "files": [
     "lib",
     "dist"
   ],
-  "homepage": "https://github.com/rollup/rollup-starter-project#readme",
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^7.1.1",
