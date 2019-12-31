@@ -1,7 +1,3 @@
-# See [rollup-starter-lib](https://github.com/rollup/rollup-starter-lib) and [rollup-starter-app](https://github.com/rollup/rollup-starter-app) for a simpler, up-to-date example of how to create a library or application with Rollup
-
----
-
 # i-storage
 
 A localStorage package [ES6 support]
