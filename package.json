@@ -1,7 +1,7 @@
 {
   "name": "@idogo/i-storage",
   "version": "1.0.3",
-  "description": "Sample project for packages built with rollup.",
+  "description": "A localStorage package [ES6 support]",
   "main": "dist/i-storage.js",
   "module": "dist/i-storage.mjs",
   "jsnext:main": "dist/i-storage.mjs",
@@ -25,6 +25,10 @@
     "lib",
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idogos/i-storage.git"
+  },
   "dependencies": {},
   "devDependencies": {
     "babel-eslint": "^7.1.1",

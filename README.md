@@ -2,11 +2,17 @@
 
 A localStorage package [ES6 support]
 
+## Install
+
+```bash
+npm install @idogo/i-storage --save
+```
+
 ## Usage
 
 Initialize
 ```js
-import iStorage from 'i-storage';
+import iStorage from '@idogo/i-storage';
 const storage = new iStorage();
 ```
 
